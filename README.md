@@ -1,2 +1,2 @@
 # Computer-Vision
-Coding Exercises at University
+Python Coding Exercises at University
